@@ -1,0 +1,1 @@
+A comprehensive collection of Machine Learning projects ranging from basic to advanced, covering data preprocessing, supervised learning, unsupervised learning, deep learning, and real-world applications using Python, Scikit-learn, TensorFlow, and PyTorch.
